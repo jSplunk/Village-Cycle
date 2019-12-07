@@ -1107,3 +1107,9 @@ Current seed of Model bush.fbx is: 1575507318
 Current seed of Model rock.fbx is: 1575507318
 Current seed of Model house.fbx is: 1575507318
 Current seed of Model house2.fbx is: 1575507318
+-------------------------------
+Current seed of Model grassLowPoly.fbx is: 1575507318
+Current seed of Model bush.fbx is: 1575507318
+Current seed of Model rock.fbx is: 1575507318
+Current seed of Model house.fbx is: 1575507318
+Current seed of Model house2.fbx is: 1575507318
