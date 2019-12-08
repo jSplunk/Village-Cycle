@@ -24,11 +24,11 @@ private:
 	Shader sunAndMoon = { "Resources\\Shaders\\OnlyColour_shader.vs", "Resources\\Shaders\\OnlyColour_shader.fs" };
 
 	//Models loaded into the scene
-	Model grass = { "Resources\\Models\\grassLowPoly.fbx", 20000, 200, 200, 1575507318 };
-	Model bush = { "Resources\\Models\\bush.fbx", 1000, 323, 323, 1575507318 };
-	Model rock = { "Resources\\Models\\rock.fbx", 500, 300, 300, 1575507318 };
-	Model house = { "Resources\\Models\\House\\house.fbx", 15, 180, 180 ,1575507318 };
-	Model house2 = { "Resources\\Models\\House\\house2.fbx", 30, 110, 150 ,1575507318 };
+	Model grass = { "Resources\\Models\\grassLowPoly.fbx", 20000, 200, 200};
+	Model bush = { "Resources\\Models\\bush.fbx", 1000, 323, 323};
+	Model rock = { "Resources\\Models\\rock.fbx", 500, 300, 300};
+	Model house = { "Resources\\Models\\House\\house.fbx", 15, 180, 180};
+	Model house2 = { "Resources\\Models\\House\\house2.fbx", 30, 110, 150};
 
 	//Camera settings for resolution setting
 	Camera_settings settings;
